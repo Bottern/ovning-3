@@ -8,5 +8,6 @@ namespace OvningArv
 {
     class Point3D
     {
+        //
     }
 }
